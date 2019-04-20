@@ -1,0 +1,13 @@
+ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+li {
+	width: 20%;
+	list-style-type:none;
+}
+
+li img{
+	max-width: 200px;
+}
